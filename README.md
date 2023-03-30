@@ -7,7 +7,7 @@ Essa é uma lista de tarefas inspirado no qual é ensinado pelo professor Luiz O
 
 
 ## Resultado 
-lllklkl
+
 
 
 ## Deploy do projeto
