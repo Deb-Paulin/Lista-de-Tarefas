@@ -57,9 +57,9 @@ body {
 
 .apagar {
   border-radius: 4px;
-    color: var(--white);
-    border: 2px solid var(--green-2);
-    background-color: var(--green-dark);
+  color: var(--white);
+  border: 2px solid var(--green-2);
+  background-color: var(--green-dark);
 }
 
 
