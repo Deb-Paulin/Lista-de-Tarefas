@@ -1,4 +1,10 @@
-
+:root {
+  --gray: rgb(66,83,79);
+  --white: #FFFFFF;
+  --green: #008B8B;
+  --green-2: rgb(15, 87, 77);
+  --green-dark: rgb(16, 124, 110)
+}
 
 * {
   box-sizing: border-box;
