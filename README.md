@@ -14,7 +14,7 @@ Essa é uma lista de tarefas inspirado no qual é ensinado pelo professor Luiz O
 Versão Mobile: 480px
 
 ## Deploy do projeto
-
+https://deb-paulin.github.io/Lista-de-Tarefas/
 
 ## Tecnologias utilizadas
 -HTML 
