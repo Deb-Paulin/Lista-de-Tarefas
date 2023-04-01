@@ -3,7 +3,7 @@
 ## Sobre o projeto
 Essa é uma lista de tarefas inspirado no qual é ensinado pelo professor Luiz Otávio Miranda em seu curso: Curso de JavaScript e TypeScript do básico ao avançado.
 
-##Layout do Desafio 
+## Layout do Desafio 
 ![Screenshot from 2023-04-01 19-19-17](https://user-images.githubusercontent.com/113848968/229316567-7c01bfe8-bc4f-4382-97cc-3d696f5b696e.png)
 
 ## Resultado 
