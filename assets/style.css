@@ -30,4 +30,9 @@ body {
   border-radius: 16px;
 }
 
+.title {
+  color: var(--gray);
+  margin-left: 15px;
+}
+
 
