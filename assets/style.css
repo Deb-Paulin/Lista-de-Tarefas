@@ -35,4 +35,31 @@ body {
   margin-left: 15px;
 }
 
+.input-tarefa {
+  border-radius: 6px;
+  color: var(--gray);
+  margin-left: 34px;
+  border: 2px solid var(--gray);
+  padding: 4px 5px;
+}
+
+.btn-tarefa {
+  margin: 10px 0 0 36px;
+  border-radius: 5px;
+  color: var(--white);
+  background-color: var(--green);
+}
+
+.tarefas {
+  color: var(--gray);
+  list-style: none;
+}
+
+.apagar {
+  border-radius: 4px;
+    color: var(--white);
+    border: 2px solid var(--green-2);
+    background-color: var(--green-dark);
+}
+
 
